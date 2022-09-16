@@ -1,0 +1,17 @@
+.reset-button {
+  border: none;
+  background: cyan;
+  color: rgb(7, 28, 47);
+  border-radius: 0.5rem;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  margin: 2rem auto;
+  display: block;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.reset-button:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
